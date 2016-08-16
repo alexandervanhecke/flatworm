@@ -1,2 +1,5 @@
-testbuild
-build
+/target
+/.settings
+/index
+/.idea
+/**/*.iml
